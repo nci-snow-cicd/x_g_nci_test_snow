@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-06-10 21:05:42">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</application>
+<application_name>Test_SNOW</application_name>
+<application_scope>x_g_nci_test_snow</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process
+Test CICD Upgrade</description>
+<inserted/>
+<name>Test_SNOW - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>c87b09021b551090fe45ed39bc4bcbe0</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-06-10 21:05:42</sys_created_on>
+<sys_id>127b098e1b55585094edddb6bc4bcbea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-06-10 21:05:42</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_da6489c61b151090fe45ed39bc4bcb72</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Test_SNOW">9e644d861b151090fe45ed39bc4bcb55</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Open - Unassigned</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>task</name><order>4</order><override_menu_roles>false</override_menu_roles><query>active=true^assigned_toISEMPTY^EQ</query><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-06-10 20:34:50</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>da6489c61b151090fe45ed39bc4bcb72</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open - Unassigned</sys_name><sys_overrides/><sys_package display_value="Test_SNOW" source="x_g_nci_test_snow">02d3c9061b151090fe45ed39bc4bcb75</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</sys_scope><sys_update_name>sys_app_module_da6489c61b151090fe45ed39bc4bcb72</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-06-10 20:34:50</sys_updated_on><timeline_page/><title>Open - Unassigned</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-950764905</payload_hash>
+<remote_update_set display_value="Test_SNOW - 1.0.0">127b098e1b55585094edddb6bc4bcbea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-06-10 21:05:42</sys_created_on>
+<sys_id>127b098e1b55585094edddb6bc4bcbeb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>172a00d674c0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-06-10 21:05:42</sys_updated_on>
+<table>task</table>
+<target_name>Open - Unassigned</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>007bc5423c5510906312bfa2c708ff30</update_guid>
+<update_guid_history>007bc5423c5510906312bfa2c708ff30:-950764905,9e6489c688151090447a5334853c7c73:-950764905</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_02d3c9061b151090fe45ed39bc4bcb75</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu/><name>Test_SNOW</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_g_nci_test_snow</scope><scoped_administration>false</scoped_administration><short_description>Test CICD Upgrade</short_description><source>x_g_nci_test_snow</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-06-10 20:32:21</sys_created_on><sys_id>02d3c9061b151090fe45ed39bc4bcb75</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-06-10 20:32:21</sys_updated_on><template/><trackable>true</trackable><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>1973489473</payload_hash>
+<remote_update_set display_value="Test_SNOW - 1.0.0">127b098e1b55585094edddb6bc4bcbea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-06-10 21:05:42</sys_created_on>
+<sys_id>167b098e1b55585094edddb6bc4bcbea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>172a00d66fd0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-06-10 21:05:42</sys_updated_on>
+<table/>
+<target_name>Test_SNOW</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>cc7b0902135510902d700c7ce463f6e2</update_guid>
+<update_guid_history>cc7b0902135510902d700c7ce463f6e2:1973489473,ecd4090a281510906b4112538984b473:1973489473,02d34986c31510901ea314d4abf0d35a:-1737235963</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_de644d861b151090fe45ed39bc4bcb5e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Test_SNOW">9e644d861b151090fe45ed39bc4bcb55</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Open</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>task</name><order>3</order><override_menu_roles>false</override_menu_roles><query>active=true^EQ</query><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-06-10 20:34:50</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>de644d861b151090fe45ed39bc4bcb5e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open</sys_name><sys_overrides/><sys_package display_value="Test_SNOW" source="x_g_nci_test_snow">02d3c9061b151090fe45ed39bc4bcb75</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</sys_scope><sys_update_name>sys_app_module_de644d861b151090fe45ed39bc4bcb5e</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-06-10 20:34:50</sys_updated_on><timeline_page/><title>Open</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>999019405</payload_hash>
+<remote_update_set display_value="Test_SNOW - 1.0.0">127b098e1b55585094edddb6bc4bcbea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-06-10 21:05:42</sys_created_on>
+<sys_id>5a7b098e1b55585094edddb6bc4bcbeb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>172a00d67940000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-06-10 21:05:42</sys_updated_on>
+<table>task</table>
+<target_name>Open</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>cc7bc542b3551090ed6c0042c32de033</update_guid>
+<update_guid_history>cc7bc542b3551090ed6c0042c32de033:999019405,d2644d861c151090f1c16c57a764b760:999019405</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_9e644d861b151090fe45ed39bc4bcb5c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Test_SNOW">9e644d861b151090fe45ed39bc4bcb55</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>task</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-06-10 20:34:50</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>9e644d861b151090fe45ed39bc4bcb5c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Test_SNOW" source="x_g_nci_test_snow">02d3c9061b151090fe45ed39bc4bcb75</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</sys_scope><sys_update_name>sys_app_module_9e644d861b151090fe45ed39bc4bcb5c</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-06-10 20:34:50</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-2008033479</payload_hash>
+<remote_update_set display_value="Test_SNOW - 1.0.0">127b098e1b55585094edddb6bc4bcbea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-06-10 21:05:42</sys_created_on>
+<sys_id>5e7b098e1b55585094edddb6bc4bcbea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>172a00d67360000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-06-10 21:05:42</sys_updated_on>
+<table>task</table>
+<target_name>Create New</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>c87bc542de55109045aa6a28e335d92e</update_guid>
+<update_guid_history>c87bc542de55109045aa6a28e335d92e:-2008033479,92644d86e9151090d1d4a22b3245595e:-2008033479</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_da6489c61b151090fe45ed39bc4bcb76</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Test_SNOW">9e644d861b151090fe45ed39bc4bcb55</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>All</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>task</name><order>6</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-06-10 20:34:50</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>da6489c61b151090fe45ed39bc4bcb76</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Test_SNOW" source="x_g_nci_test_snow">02d3c9061b151090fe45ed39bc4bcb75</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</sys_scope><sys_update_name>sys_app_module_da6489c61b151090fe45ed39bc4bcb76</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-06-10 20:34:50</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-617351342</payload_hash>
+<remote_update_set display_value="Test_SNOW - 1.0.0">127b098e1b55585094edddb6bc4bcbea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-06-10 21:05:42</sys_created_on>
+<sys_id>967b098e1b55585094edddb6bc4bcbeb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>172a00d677d0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-06-10 21:05:42</sys_updated_on>
+<table>task</table>
+<target_name>All</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>887bc5427f5510908e7297b20eb97e32</update_guid>
+<update_guid_history>887bc5427f5510908e7297b20eb97e32:-617351342,9e6489c61e151090c745bab879dc0f77:-617351342</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_1a644d861b151090fe45ed39bc4bcb59</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Test_SNOW">9e644d861b151090fe45ed39bc4bcb55</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Task</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-06-10 20:34:50</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>1a644d861b151090fe45ed39bc4bcb59</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Task</sys_name><sys_overrides/><sys_package display_value="Test_SNOW" source="x_g_nci_test_snow">02d3c9061b151090fe45ed39bc4bcb75</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</sys_scope><sys_update_name>sys_app_module_1a644d861b151090fe45ed39bc4bcb59</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-06-10 20:34:50</sys_updated_on><timeline_page/><title>Task</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>488510516</payload_hash>
+<remote_update_set display_value="Test_SNOW - 1.0.0">127b098e1b55585094edddb6bc4bcbea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-06-10 21:05:42</sys_created_on>
+<sys_id>9a7b098e1b55585094edddb6bc4bcbea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>172a00d67200000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-06-10 21:05:42</sys_updated_on>
+<table/>
+<target_name>Task</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>c87b090258551090056b9059d1af1be4</update_guid>
+<update_guid_history>c87b090258551090056b9059d1af1be4:488510516,de644d866f151090d6176a0788b1355b:488510516</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_da6489c61b151090fe45ed39bc4bcb74</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Test_SNOW">9e644d861b151090fe45ed39bc4bcb55</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Closed</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>task</name><order>5</order><override_menu_roles>false</override_menu_roles><query>active=false^EQ</query><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-06-10 20:34:50</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>da6489c61b151090fe45ed39bc4bcb74</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Closed</sys_name><sys_overrides/><sys_package display_value="Test_SNOW" source="x_g_nci_test_snow">02d3c9061b151090fe45ed39bc4bcb75</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</sys_scope><sys_update_name>sys_app_module_da6489c61b151090fe45ed39bc4bcb74</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-06-10 20:34:50</sys_updated_on><timeline_page/><title>Closed</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-1929983920</payload_hash>
+<remote_update_set display_value="Test_SNOW - 1.0.0">127b098e1b55585094edddb6bc4bcbea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-06-10 21:05:42</sys_created_on>
+<sys_id>d27b098e1b55585094edddb6bc4bcbeb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>172a00d67660000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-06-10 21:05:42</sys_updated_on>
+<table>task</table>
+<target_name>Closed</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>447bc5424955109023f53f3ec9e0cd31</update_guid>
+<update_guid_history>447bc5424955109023f53f3ec9e0cd31:-1929983920,9e6489c655151090e9d8e620eb774875:-1929983920</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_9e644d861b151090fe45ed39bc4bcb55</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="">Custom Applications</category><description/><device_type>browser</device_type><hint/><name/><order/><roles>admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>rizknt@nih.gov</sys_created_by><sys_created_on>2020-06-10 20:34:50</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>9e644d861b151090fe45ed39bc4bcb55</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test_SNOW</sys_name><sys_overrides/><sys_package display_value="Test_SNOW" source="x_g_nci_test_snow">02d3c9061b151090fe45ed39bc4bcb75</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Test_SNOW">02d3c9061b151090fe45ed39bc4bcb75</sys_scope><sys_update_name>sys_app_application_9e644d861b151090fe45ed39bc4bcb55</sys_update_name><sys_updated_by>rizknt@nih.gov</sys_updated_by><sys_updated_on>2020-06-10 20:34:50</sys_updated_on><title>Test_SNOW</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>751354141</payload_hash>
+<remote_update_set display_value="Test_SNOW - 1.0.0">127b098e1b55585094edddb6bc4bcbea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2020-06-10 21:05:42</sys_created_on>
+<sys_id>d67b098e1b55585094edddb6bc4bcbea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>172a00d67b10000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2020-06-10 21:05:42</sys_updated_on>
+<table/>
+<target_name>Test_SNOW</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>087bc5421c5510909f7acf022ba30f35</update_guid>
+<update_guid_history>087bc5421c5510909f7acf022ba30f35:751354141,1a644d8601151090e7682c9f84950358:751354141</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
